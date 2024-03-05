@@ -15,4 +15,9 @@ public class TestBase2Application {
         System.out.println("A");
     }
 
+    //Новый метод ветки B
+    public void metodB(){
+        System.out.println("B");
+    }
+
 }
