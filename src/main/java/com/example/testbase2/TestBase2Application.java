@@ -10,4 +10,9 @@ public class TestBase2Application {
         SpringApplication.run(TestBase2Application.class, args);
     }
 
+    //Новый метод ветки A
+    public void metodA(){
+        System.out.println("A");
+    }
+
 }
