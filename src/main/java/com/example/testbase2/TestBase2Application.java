@@ -8,6 +8,8 @@ public class TestBase2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(TestBase2Application.class, args);
+
+        System.out.println("Код ветки С");
     }
 
     //Новый метод ветки A
